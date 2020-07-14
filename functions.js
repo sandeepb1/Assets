@@ -258,7 +258,7 @@ if ($portfolioMasonry.length) {
 /*===============================================
   13. Portfolio Grid
 ===============================================*/
-var $portfolioGrid = $(".portfolio-grid");
+/*var $portfolioGrid = $(".portfolio-grid");
 
 if ($portfolioGrid.length) {
   var mixer = mixitup('.portfolio-grid', {
@@ -269,7 +269,7 @@ if ($portfolioGrid.length) {
         duration: 300
     }
   });
-}
+}*/
 
 /*===============================================
   15. Masonry Grid
